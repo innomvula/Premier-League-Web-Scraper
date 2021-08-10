@@ -10,3 +10,4 @@ Player statistics were scraped from the end of the 2020/2021 season.
 Stats include offensive and defensive stats of all players registered in the 2021 year.
 
 ![player stats ex](https://user-images.githubusercontent.com/65461268/128937765-8b6a6be1-acd7-4d68-93f7-1ee7b99abb3f.PNG)
+csvtomd EPL_Player_Stats.csv
